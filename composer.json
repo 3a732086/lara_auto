@@ -1,0 +1,11 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "autoload classes",
+    "authors": [
+        {
+            "name": "hu dong lin",
+            "email": "benabcd5779@gmail.com"
+        }
+    ],
+    "require": {}
+}
